@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/msysok/typescript-training/issues"
   },
-  "homepage": "https://github.com/msysok/typescript-training#readme"
+  "homepage": "https://github.com/msysok/typescript-training#readme",
+  "devDependencies": {
+    "typescript": "^5.1.3"
+  }
 }
